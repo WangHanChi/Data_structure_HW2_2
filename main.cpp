@@ -8,7 +8,7 @@
 #include <iostream>
 using namespace std;
 
-//作業二 第二題 107303528 機械4A 王漢祺
+
 class Bucket{
     
 private:
